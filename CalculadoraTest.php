@@ -74,3 +74,4 @@ class CalculadoraTest extends TestCase
         $this->assertEquals(4, $resultado); // Qualquer operação vai dividir
     }
 }
+?>
